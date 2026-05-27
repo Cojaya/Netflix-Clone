@@ -35,6 +35,10 @@ The entire project is built without using any frameworks, showcasing pure fronte
 The purpose of this section is to simulate the real Netflix "signup hook", where they grab the user's attention using clean design + strong messaging.
 
 ### 2. Enjoy On TV – TV + Video Animation
+
+<p align="center">
+  <img src="https://github.com/Cojaya/Netflix-Clone/blob/1ea356d73edc9a7c76a20387ad09dfe00bc2da0e/Netflix_Clone/Netflix_Clone/images-removebg-preview.png" alt="Netflix Logo" width="280" height="80">
+</p>
 This section highlights how Netflix plays videos seamlessly across devices.
 
 It contains:
