@@ -37,7 +37,7 @@ The purpose of this section is to simulate the real Netflix "signup hook", where
 ### 2. Enjoy On TV – TV + Video Animation
 
 <p align="center">
-  <img src="https://github.com/Cojaya/Netflix-Clone/blob/1ea356d73edc9a7c76a20387ad09dfe00bc2da0e/Netflix_Clone/Netflix_Clone/images-removebg-preview.png" alt="Netflix Logo" width="280" height="80">
+  <img src="https://github.com/Cojaya/Netflix-Clone/blob/7321d318249ea2f0c265abc0e43355e5c30db0a8/Netflix_Clone/Netflix_Clone/image.png" alt="Netflix Logo" width="850" height="350">
 </p>
 This section highlights how Netflix plays videos seamlessly across devices.
 
