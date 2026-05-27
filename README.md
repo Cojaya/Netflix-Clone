@@ -80,6 +80,48 @@ It also demonstrates your understanding of:
 ### 5. Create Profiles for Kids
 This section focuses on family-friendly content.
 <p align="center">
-  <img src="https://github.com/Cojaya/Netflix-Clone/blob/73eff824eb0f157f83887955ffc9054602303a05/Netflix_Clone/Netflix_Clone/bg.jpg" width="900" height="450">
+  <img src="https://github.com/Cojaya/Netflix-Clone/blob/6fb907a6ffeac2c2d5d9cf1d014fcc0540de30a9/Netflix_Clone/Netflix_Clone/1234.png" width="800" height="400">
 </p>
 
+Highlights:
+- Personalized profiles
+- Kid-safe experiences
+- Bright and friendly design tone
+
+This shows:
+- How streaming services target different audience segments
+- How UI tone changes based on audience
+
+# Key Features Showcased
+### 1. Pixel-Perfect UI Cloning
+Every section carefully mirrors Netflix’s layout, spacing, and typography.
+
+### 2. Fully Responsive Design
+All screen sizes—from mobile to large desktops—are supported smoothly.
+
+### 3. Modern Visual Elements
+- Hero overlays
+- Video-in-TV animations
+- Flexible content grids
+- Clean buttons
+  
+### 4. Strong Frontend Fundamentals
+This project shows:
+- Deep understanding of layout design
+- Ability to replicate complex UI
+- Clean and structured development approach
+
+# Technologies Used
+
+| Technology                               | Purpose / Why It Was Used                                                          |
+| ---------------------------------------- | ---------------------------------------------------------------------------------- |
+| **HTML5**                                | Creates the structure of the webpage, organizes content, sections, and layout.     |
+| **CSS3**                                 | Adds styling, visuals, responsiveness, animations, and enhances user experience.   |
+| **Flexbox**                              | Aligns items neatly across sections, ensures clean spacing and responsive layouts. |
+| **Google Fonts (Poppins & Martel Sans)** | Provides a premium Netflix-style typography for headings and body text.            |
+| **Images & Background Assets**           | Used for hero background, mockups, device frames, and UI elements.                 |
+| **Embedded Videos**                      | Creates TV-frame animation effect similar to Netflix homepage.                     |
+
+# Conclusion
+
+This Netflix Clone project showcases a simple and visually appealing dummy UI inspired by Netflix’s homepage. It highlights my ability to build clean layouts, structure content effectively, and use HTML & CSS to create a smooth user experience. While not a copy of the real Netflix interface, it reflects strong design understanding and front-end development skills.
